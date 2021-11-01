@@ -32,7 +32,7 @@ BASIC Computer Games noted that the game was a modification of a game "written i
 
 ## Legacy
 
-In addition to the multiple versions of Hamurabi, several simulation games have been created as expansions of the core game. These include Kingdom (1974) by Lee Schneider and Todd Voros, which was then expanded to Dukedom (1976).[15] Other derivations include King (1978) by James A. Storer, and Santa Paravia en Fiumaccio (1978) by George Blank; Santa Paravia added the concept of city building management to the basic structure of Hamurabi, making it an antecedent to the city-building genre as well as an early strategy game. A conversion of this game was included on the BBC Micro's Welcome Tape and Welcome Disc as Yellow River Kingdom (1981). Hamurabi inspired more complicated economic simulation games; M.U.L.E. (1983) and Anacreon (1987) are two games that critics mentioned as being similar to Hamurabi.
+In addition to the multiple versions of Hamurabi, several simulation games have been created as expansions of the core game. These include Kingdom (1974) by Lee Schneider and Todd Voros, which was then expanded to Dukedom (1976). Other derivations include King (1978) by James A. Storer, and Santa Paravia en Fiumaccio (1978) by George Blank; Santa Paravia added the concept of city building management to the basic structure of Hamurabi, making it an antecedent to the city-building genre as well as an early strategy game. A conversion of this game was included on the BBC Micro's Welcome Tape and Welcome Disc as Yellow River Kingdom (1981). Hamurabi inspired more complicated economic simulation games; M.U.L.E. (1983) and Anacreon (1987) are two games that critics mentioned as being similar to Hamurabi.
 
 ## Source Code
 
