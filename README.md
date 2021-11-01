@@ -6,6 +6,8 @@ The game consists of ten rounds wherein the player, as the ancient Babylonian ki
 
 Multiple versions of the game were created for the FOCAL language, but around 1971 David H. Ahl ported it to DEC BASIC and in 1973 published it in 101 BASIC Games. This was later republished in Microsoft BASIC form in 1978's BASIC Computer Games. His expanded version of the game, titled Hamurabi, quickly became the more prominent version due to the popularity of both the book and the programming language. Hamurabi influenced many later strategy and simulation games and is also an antecedent to the city-building genre.
 
+![Hamurabi_Screenshot](https://user-images.githubusercontent.com/14840708/139726144-c669b35d-4e0c-4969-8b2f-78f93c1ce004.png)
+
 ## Gameplay
 
 Hamurabi is a text-based strategy video game centered on resource management in which the player, identified in the text as the ancient Babylonian king Hammurabi, enters numbers in response to questions posed by the game. The resources that the player must manage are people, acres of land, and bushels of grain. These are managed over the course of ten rounds, each of which represents a year. Each person can farm a set amount of land, which produces grain. Grain, in turn, can be used to feed people, who otherwise die the following round, or planted for the following year's crop. The player may also buy or sell land to their neighbors each turn in exchange for grain. Each round begins with an adviser stating "Hamurabi: I beg to report to you" the current status of the city, including the prior year's harvest and change in population, followed by a series of questions as to how many bushels of grain to spend on land, seeds, and feeding the people.
