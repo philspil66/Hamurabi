@@ -30,6 +30,7 @@ In 1975 the Altair 8800 was released, and soon after, Altair BASIC. The microcom
 
 BASIC Computer Games noted that the game was a modification of a game "written in FOCAL at DEC", but listed the author as "unknown". The 1978 edition of the book, which was the first million-selling computer book, noted that the game's name was intended to be "Hammurabi", but not only was one "m" dropped in the file name to fit in an eight-character limit, but Ahl consistently misspelled the name inside of the game, following Dyment's spelling, leading to the generally accepted name of the game to be Hamurabi.
 
+
 ![page79](https://user-images.githubusercontent.com/14840708/139722307-d0542ea7-90b4-4fa3-957e-b0652972aba7.gif)
 
 ## Legacy
