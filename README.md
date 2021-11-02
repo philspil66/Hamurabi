@@ -39,4 +39,4 @@ In addition to the multiple versions of Hamurabi, several simulation games have 
 
 ## Source Code
 
-In this repo I've added the source code to the 1973 BASIC source code as printed in 101 BASIC Computer Games.
+In this repo I've added the source code to the 1973 BASIC source code as printed in BASIC Computer Games in 1978.
